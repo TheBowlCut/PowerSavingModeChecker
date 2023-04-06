@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PowerSavingModeChecker</string>
+    <string name="powerSaveMessage">"Power Saving Mode "</string>
+    <string name="powerCheck">Check</string>
+    <string name="powerSaveModeTrue">Power saving mode: True</string>
+    <string name="powerSaveModeFalse">Power saving mode: False</string>
 </resources>
