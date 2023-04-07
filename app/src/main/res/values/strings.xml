@@ -4,4 +4,8 @@
     <string name="powerCheck">Check</string>
     <string name="powerSaveModeTrue">Power saving mode: True</string>
     <string name="powerSaveModeFalse">Power saving mode: False</string>
+    <string name="requestPowerModeOff">This app may not work if power saving mode is on. Please turn off for best results</string>
+    <string name="goToSettings">Settings</string>
+    <string name="cancel">Cancel</string>
+
 </resources>
